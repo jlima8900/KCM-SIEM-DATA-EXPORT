@@ -1,7 +1,7 @@
 
-# Keeper Connection Manager SIEM Export Script
+# Guacamole- KCM - SIEM Export Script
 
-**Script Name:** `ExportSiem.sh`  
+
 **Purpose:** Extracts and enriches Keeper Connection Manager (Guacamole) data into SIEM-compatible formats (JSON or CEF), supporting correlation, enrichment, and optional splitting.
 
 ---
