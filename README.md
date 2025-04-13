@@ -1,4 +1,4 @@
-# Guacamole KCM - SIEM Export Script Documentation - ###Mysqland/Postgres compatibble
+# Guacamole KCM - SIEM Export Script Documentation - Mysqland/Postgres compatibble
 
 ## Purpose
 Extracts and enriches Keeper Connection Manager (Guacamole) data into SIEM-compatible formats (JSON or CEF), supporting correlation, enrichment, and optional splitting.
