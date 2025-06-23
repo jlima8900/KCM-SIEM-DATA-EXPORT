@@ -8,7 +8,7 @@ Extracts and enriches Keeper Connection Manager (Guacamole) data into SIEM-compa
 
 The KCM SIEM Export Tool simplifies exporting Apache Guacamole connection data to Security Information and Event Management systems. It automatically inspects your Docker Compose configuration, extracts database credentials, and transforms connection data into SIEM-compatible formats.
 
-This tool is not officially supported by Keeper and is an individual contribution.
+This tool is not officially supported by Keeper and is an individual effort/contribution to demonstrate how data can be effectively exported.
 
 ## Versions
 Two versions are available depending on your database backend:
